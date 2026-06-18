@@ -1,9 +1,9 @@
 <p align="center">
   <img src="assets/logo.png" width="200" alt="JourneyBot Logo">
 </p>
-<p align="center">
+<h2 align="center">
 AI-Powered Lead Nurturing for Travel Agencies
-</p>
+</h2>
 
 # 🚀 Building JourneyBot in Public
 
