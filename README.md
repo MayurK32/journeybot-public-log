@@ -117,7 +117,7 @@ Key lessons gathered throughout the journey.
 
 ## Phase 1 — MVP
 
-* [ ] Receive WhatsApp messages
+* [x] Completed Receive WhatsApp messages
 * [ ] Process incoming conversations
 * [ ] Store conversation history
 * [ ] Basic automated responses
