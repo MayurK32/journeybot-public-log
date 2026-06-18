@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/logo.png" width="200" alt="JourneyBot Logo">
+</p>
+<p align="center">
+AI-Powered Lead Nurturing for Travel Agencies
+</p>
+
 # 🚀 Building JourneyBot in Public
 
 JourneyBot is an AI-powered lead nurturing platform for travel agencies.
