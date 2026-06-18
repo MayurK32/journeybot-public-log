@@ -88,17 +88,6 @@ Future decisions will be recorded as Architecture Decision Records (ADRs) togeth
 
 ---
 
-# 📅 Build in Public Timeline
-
-| Week   | Topic                         | Link |
-| ------ | ----------------------------- | ---- |
-| Week 1 | Why I'm Building JourneyBot   | TBD  |
-| Week 2 | First WhatsApp Integration    | TBD  |
-| Week 3 | First End-to-End Message Flow | TBD  |
-| Week 4 | Architecture Learnings        | TBD  |
-
----
-
 # 📝 Architecture Decision Records (ADRs)
 
 Architecture Decision Records document important technical decisions and the reasoning behind them.
