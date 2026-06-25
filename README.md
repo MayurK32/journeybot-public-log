@@ -92,12 +92,13 @@ Future decisions will be recorded as Architecture Decision Records (ADRs) togeth
 
 Architecture Decision Records document important technical decisions and the reasoning behind them.
 
-| ADR     | Title                                       | Status   |
-| ------- | ------------------------------------------- | -------- |
-| ADR-001 | Build JourneyBot in Public                  | Accepted |
-| ADR-002 | Keep Source Code Private                    | Accepted |
-| ADR-003 | Use WhatsApp as Primary Interaction Channel | Accepted |
-| ADR-004 | Start Development Using .NET                | Accepted |
+| ADR | Title | Status |
+|------|-------|--------|
+| [ADR-001](adrs/ADR-001-build-in-public.md) | Build JourneyBot in Public | ✅ Accepted |
+| [ADR-002](adrs/ADR-002-keep-source-code-private.md) | Keep Source Code Private | ✅ Accepted |
+| [ADR-003](adrs/ADR-003-use-whatsapp-as-primary-interaction-channel.md) | Use WhatsApp as Primary Interaction Channel | ✅ Accepted |
+| [ADR-004](adrs/ADR-004-start-development-using-dotnet.md) | Start Development Using .NET | ✅ Accepted |
+| [ADR-005](adrs/ADR-005-select-postgresql-as-initial-primary-database.md) | Select PostgreSQL as the Initial Primary Database | ✅ Accepted |
 
 View all ADRs in the `/adrs` directory.
 
