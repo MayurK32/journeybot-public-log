@@ -108,9 +108,10 @@ View all ADRs in the `/adrs` directory.
 
 Key lessons gathered throughout the journey.
 
-| Date        | Lesson |
-| ----------- | ------ |
-| Coming Soon | —      |
+| Date       | Lesson                                                                                                                                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026-06-25 | Choose technologies based on the problem you're solving, not their popularity. Every technology has strengths and trade-offs. The best choice is the one that fits the application's requirements, constraints, and long-term goals. |
+
 
 ---
 
